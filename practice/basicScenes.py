@@ -41,3 +41,15 @@ class SquareAndCircle(Scene):
         #in a scene needs to placed in the same self.play() operation
         #I wonder what the general breakdown of "movement" types are. To list a few; transform, create, ...
         self.play(Create(square),Create(circle))
+
+
+#same as Square and Circle, except using Animate
+class AnimatedSquareToCircle(Scene):
+    def construct(self):
+        circle = Circle()
+        square = Square()
+
+        self.play(Create(square))  # show the square on screen
+        self.play(square.animate.rotate(PI / 4))  # rotate the square
+        self.play(ReplacementTransform(square, circle))  # transform the square into a circle
+        self.play(circle.animate.set_fill(PINK, opacity=0.5))  # color the circle on screen
