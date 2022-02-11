@@ -1,4 +1,4 @@
-# Quickstart Tutorial
+# Reviewing the Quickstart Tutorial
 
 Link: https://docs.manim.community/en/stable/tutorials/quickstart.html
 
