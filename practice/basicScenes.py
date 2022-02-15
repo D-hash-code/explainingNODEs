@@ -26,7 +26,7 @@ class CreateCircle(Scene):
         self.play(Create(circle))
 
 
-#Positioning MObjects
+# Positioning MObjects
 
 class SquareAndCircle(Scene):
     def construct(self):
@@ -37,13 +37,13 @@ class SquareAndCircle(Scene):
         square.set_fill(BLUE,opacity=0.5)
 
         square.next_to(circle, RIGHT, buff=2)
-        #In terms of timing it seems that everything that happens at the same time in a scene needs to be time
-        #in a scene needs to placed in the same self.play() operation
-        #I wonder what the general breakdown of "movement" types are. To list a few; transform, create, ...
+        # In terms of timing it seems that everything that happens at the same time in a scene needs to be time
+        # in a scene needs to placed in the same self.play() operation
+        # I wonder what the general breakdown of "movement" types are. To list a few; transform, create, ...
         self.play(Create(square),Create(circle))
 
 
-#same as Square and Circle, except using Animate
+# same as Square and Circle, except using Animate
 class AnimatedSquareToCircle(Scene):
     def construct(self):
         circle = Circle()
