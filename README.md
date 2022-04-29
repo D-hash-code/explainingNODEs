@@ -1,48 +1,33 @@
-# explainingNODEs
+# math in x seconds
 
-What are these Neural ODEs that people speak off?? But first Manim.
+Each topic has its own folder.
 
+Within each folder there will be;
+- .py files for video generation
+- a screenplay.md file for the screenplay: scenes and script
+- a notes.md file for notes
 
-# Structure
+Just to note, I'm unapologetically naive about these subjects. I don't claim to be an expert on any of the topics. I find maths interesting and wished visual explanations of maths topics were available to me earlier.
 
-The 5-part segmentation that's currently in my head.
+Maths is interpreted as being _about_ numbers. I think maths is about patterns. Numbers are a handy way to talk about patterns.
 
-1. Basics of Neural Networks
-2. Basics of Differential Equations
-3. Neural Differential Equations with a simple example that serves as groundwork
-4. Diving into details, through a complex example
-5. State of play
-
-## 1. Basics of Neural Networks
-I can tackle this task in many ways. 
-
-#### Refinement:
-
-Keep the section under 2 minutes. Motivate the imagery of the neural network segmenting/transforming a plane for something like classification. How it maps points in a certain region to certain points. 
-
-The _flow_ that this mapping creates. Show the difference of this flow when there are 2 hidden layers versus 15 versus 50.
+One thing that fascinates me about maths is that when you talk about it you don't have to preface every sentence with "most of the time", like you do in _the real world_
 
 
-## 2. Basics of Differential Equations
+## topics
 
-Want to go in more detail here than in the basics of neural networks. DEs are less common in computer science.
+|Description|Status|Folder|
+|---|---|---|
+|Types of differential equations|Backlog||
+|Solving differential equations|Backlog||
+|Numerical methods for solving differential equations|Backlog||
+|Tensors|Backlog||
+|Gradient Optimisation|Backlog||
+|Modelling a pendulum|Backlog||
+|Chaos|Backlog||
+|Implicit Equations|Backlog||
+|Machine Learning Models|Backlog||
+|Neural Ordinary Differential Equations|Backlog||
+|Generative Adversarial Models|Backlog||
+|Continuous Normalising Flows|Backlog||
 
-Discussion Points;
-- the architecture of differential equations
-  - the change variable
-  - the parameters
-  - comparisons to a 'typical' function -- what IS a solution to a DE?
-  - the implicit nature of DEs
-- categories of DEs
-  - Higher order
-  - PDE, ODE and SDE
-- Solving ODEs
-  - the problem statement
-  - solving the ode
-  - a picture for solvers
-  
-
-## Extra Notes and Resources
-
-[for when I need it 😅](https://nicolasjaar.net/licensing)
-Tourists ^
