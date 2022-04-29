@@ -45,3 +45,4 @@ Discussion Points;
 ## Extra Notes and Resources
 
 [for when I need it 😅](https://nicolasjaar.net/licensing)
+Tourists ^

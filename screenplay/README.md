@@ -10,7 +10,7 @@ Scenes:
 
 
 ### Scene 1: Hello
-Differential Equations have an old history. Neural networks, in their modern form, are comparatively recent. How are these fields are related? Before answering this question we need to introduce differential equations.
+Differential Equations have an old history. Neural networks, in their modern form, are comparatively recent. How are these fields are related? Before answering this question I want to introduce differential equations.
 
 
 ### Scene 2: What are differential equations
