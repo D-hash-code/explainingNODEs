@@ -24,8 +24,8 @@ most of the time", like you do in _the real world_
 
 | Description                                          | Status      | Folder                           |
 |------------------------------------------------------|-------------|----------------------------------|
-| What are differential equations                      | In progress | [link](https://github.com/darshan-hindocha/math-in-200-seconds/tree/main/what_are_differential_equations) |
-| Types of differential equations                      | In progress | [link](https://github.com/darshan-hindocha/math-in-200-seconds/tree/main/types_of_differential_equations) |
+| What are differential equations                      | In progress | [link](https://github.com/darshan-hindocha/math-in-y-seconds/tree/main/what_are_differential_equations) |
+| Types of differential equations                      | In progress | [link](https://github.com/darshan-hindocha/math-in-y-seconds/tree/main/types_of_differential_equations) |
 | Solving differential equations                       | Backlog     ||
 | Numerical methods for solving differential equations | Backlog     ||
 | Tensors                                              | Backlog     ||
