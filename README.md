@@ -1,4 +1,4 @@
-# math in x seconds
+# math in y seconds
 
 Each topic has its own folder.
 
@@ -22,19 +22,20 @@ most of the time", like you do in _the real world_
 
 ## topics
 
-| Description                                          | Status      | Folder                           |
-|------------------------------------------------------|-------------|----------------------------------|
-| What are differential equations                      | In progress | [link](https://github.com/darshan-hindocha/math-in-y-seconds/tree/main/what_are_differential_equations) |
-| Types of differential equations                      | In progress | [link](https://github.com/darshan-hindocha/math-in-y-seconds/tree/main/types_of_differential_equations) |
-| Solving differential equations                       | Backlog     ||
-| Numerical methods for solving differential equations | Backlog     ||
-| Tensors                                              | Backlog     ||
-| Gradient Optimisation                                | Backlog     ||
-| Modelling a pendulum                                 | Backlog     ||
-| Chaos                                                | Backlog     ||
-| Implicit Equations                                   | Backlog     ||
-| Machine Learning Models                              | Backlog     ||
-| Neural Ordinary Differential Equations               | Backlog     ||
-| Generative Adversarial Models                        | Backlog     ||
-| Continuous Normalising Flows                         | Backlog     ||
+| Description                                          | Status          | Folder                                                                                                  |
+|------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------|
+| Squeezing Pi                                         | In Progress     | [link](./SqueezingPi/README.md)                                                                         |
+| What are differential equations                      | ~~In progress~~ | [link](https://github.com/darshan-hindocha/math-in-y-seconds/tree/main/what_are_differential_equations) |
+| Types of differential equations                      | ~~In progress~~ | [link](https://github.com/darshan-hindocha/math-in-y-seconds/tree/main/types_of_differential_equations) |
+| Solving differential equations                       | Backlog         ||
+| Numerical methods for solving differential equations | Backlog         ||
+| Tensors                                              | Backlog         ||
+| Gradient Optimisation                                | Backlog         ||
+| Modelling a pendulum                                 | Backlog         ||
+| Chaos                                                | Backlog         ||
+| Implicit Equations                                   | Backlog         ||
+| Machine Learning Models                              | Backlog         ||
+| Neural Ordinary Differential Equations               | Backlog         ||
+| Generative Adversarial Models                        | Backlog         ||
+| Continuous Normalising Flows                         | Backlog         ||
 
