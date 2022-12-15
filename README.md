@@ -24,7 +24,7 @@ most of the time", like you do in _the real world_
 
 | Description                                          | Status          | Folder                                                                                                  |
 |------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------|
-| Squeezing Pi                                         | In Progress     | [link](./SqueezingPi/README.md)                                                                         |
+| Squeezing Pi                                         | ~~In progress~~ | [link](./SqueezingPi/README.md)                                                                         |
 | What are differential equations                      | ~~In progress~~ | [link](https://github.com/darshan-hindocha/math-in-y-seconds/tree/main/what_are_differential_equations) |
 | Types of differential equations                      | ~~In progress~~ | [link](https://github.com/darshan-hindocha/math-in-y-seconds/tree/main/types_of_differential_equations) |
 | Solving differential equations                       | Backlog         ||
@@ -38,4 +38,5 @@ most of the time", like you do in _the real world_
 | Neural Ordinary Differential Equations               | Backlog         ||
 | Generative Adversarial Models                        | Backlog         ||
 | Continuous Normalising Flows                         | Backlog         ||
+| KL Divergence                                        | Backlog         ||
 
